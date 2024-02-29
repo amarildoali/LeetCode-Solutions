@@ -1,5 +1,3 @@
-package solutions;
-
 class ListNode {
     int val;
     ListNode next;
